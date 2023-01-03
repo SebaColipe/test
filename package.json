@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node src",
     "build": "node build"
-
   },
   "keywords": [
     "express",
@@ -22,7 +21,9 @@
     "helmet": "^6.0.1",
     "megadb": "^3.4.0",
     "morgan": "^1.10.0",
-    "node-google-translate-skidz": "^1.1.2"
+    "node-google-translate-skidz": "^1.1.2",
+    "request": "^2.88.2",
+    "uuid": "^7.0.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
